@@ -1,0 +1,17 @@
+C:\Users\Workspace Luxer\source\repos\InmobiliariaApp\InmobiliariaApp\obj\Debug\net6.0-windows\InmobiliariaApp.csproj.AssemblyReference.cache
+C:\Users\Workspace Luxer\source\repos\InmobiliariaApp\InmobiliariaApp\obj\Debug\net6.0-windows\InmobiliariaApp.MainForm.resources
+C:\Users\Workspace Luxer\source\repos\InmobiliariaApp\InmobiliariaApp\obj\Debug\net6.0-windows\InmobiliariaApp.csproj.GenerateResource.cache
+C:\Users\Workspace Luxer\source\repos\InmobiliariaApp\InmobiliariaApp\obj\Debug\net6.0-windows\InmobiliariaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workspace Luxer\source\repos\InmobiliariaApp\InmobiliariaApp\obj\Debug\net6.0-windows\InmobiliariaApp.AssemblyInfoInputs.cache
+C:\Users\Workspace Luxer\source\repos\InmobiliariaApp\InmobiliariaApp\obj\Debug\net6.0-windows\InmobiliariaApp.AssemblyInfo.cs
+C:\Users\Workspace Luxer\source\repos\InmobiliariaApp\InmobiliariaApp\obj\Debug\net6.0-windows\InmobiliariaApp.csproj.CoreCompileInputs.cache
+C:\Users\Workspace Luxer\source\repos\InmobiliariaApp\InmobiliariaApp\bin\Debug\net6.0-windows\InmobiliariaApp.exe
+C:\Users\Workspace Luxer\source\repos\InmobiliariaApp\InmobiliariaApp\bin\Debug\net6.0-windows\InmobiliariaApp.deps.json
+C:\Users\Workspace Luxer\source\repos\InmobiliariaApp\InmobiliariaApp\bin\Debug\net6.0-windows\InmobiliariaApp.runtimeconfig.json
+C:\Users\Workspace Luxer\source\repos\InmobiliariaApp\InmobiliariaApp\bin\Debug\net6.0-windows\InmobiliariaApp.dll
+C:\Users\Workspace Luxer\source\repos\InmobiliariaApp\InmobiliariaApp\bin\Debug\net6.0-windows\InmobiliariaApp.pdb
+C:\Users\Workspace Luxer\source\repos\InmobiliariaApp\InmobiliariaApp\obj\Debug\net6.0-windows\InmobiliariaApp.dll
+C:\Users\Workspace Luxer\source\repos\InmobiliariaApp\InmobiliariaApp\obj\Debug\net6.0-windows\refint\InmobiliariaApp.dll
+C:\Users\Workspace Luxer\source\repos\InmobiliariaApp\InmobiliariaApp\obj\Debug\net6.0-windows\InmobiliariaApp.pdb
+C:\Users\Workspace Luxer\source\repos\InmobiliariaApp\InmobiliariaApp\obj\Debug\net6.0-windows\InmobiliariaApp.genruntimeconfig.cache
+C:\Users\Workspace Luxer\source\repos\InmobiliariaApp\InmobiliariaApp\obj\Debug\net6.0-windows\ref\InmobiliariaApp.dll
